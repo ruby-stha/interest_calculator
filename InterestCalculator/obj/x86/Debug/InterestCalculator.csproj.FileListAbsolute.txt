@@ -1,0 +1,7 @@
+e:\my documents\visual studio 2010\Projects\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe
+e:\my documents\visual studio 2010\Projects\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.pdb
+e:\my documents\visual studio 2010\Projects\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.InterestCalculator.resources
+e:\my documents\visual studio 2010\Projects\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.Properties.Resources.resources
+e:\my documents\visual studio 2010\Projects\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.csproj.GenerateResource.Cache
+e:\my documents\visual studio 2010\Projects\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.exe
+e:\my documents\visual studio 2010\Projects\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.pdb
